@@ -5,7 +5,7 @@
 ![Feature](https://img.shields.io/badge/Feature-Real--Time%20Price%20Formatting-brightgreen)
 ![Feature](https://img.shields.io/badge/Feature-Thousands%20Separator-green)
 ![Frontend](https://img.shields.io/badge/Frontend-JavaScript-yellow)
-![License](https://img.shields.io/badge/License-LGPL--3-green)
+![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
 ## Overview
