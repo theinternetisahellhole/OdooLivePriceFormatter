@@ -1,12 +1,10 @@
 # Odoo Live Price Formatter
-```md
 ![Odoo](https://img.shields.io/badge/Odoo-18.0-714B67?logo=odoo&logoColor=white)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![Tested](https://img.shields.io/badge/tested%20on-Odoo%2018-success)
 ![License](https://img.shields.io/badge/license-LGPL--3-green)
 ![Status](https://img.shields.io/badge/status-production-success)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript&logoColor=black)
-```
 
 
 ## Overview
